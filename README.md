@@ -1,4 +1,4 @@
-This Twitter bot reads from Google Sheets and posts to Twitter. 
+This Twitter bot reads from Google Sheets and posts to Twitter. (Utilizes Twitter API, Google Sheets API, Google Drive API.)
 
 I went a step further and set up a Cloud Function on the Google Cloud Platform as well as a Cloud Scheduler job to run every morning at 6:00am.
 
